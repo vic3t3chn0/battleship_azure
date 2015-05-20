@@ -17,8 +17,9 @@
 
 import logging
 import webapp2
-from azure import *
 from random import randint
+from azure import *
+
 
 linha = 0
 coluna = 0
